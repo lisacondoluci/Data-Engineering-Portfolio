@@ -3,8 +3,8 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 ## Contents
 
-### * App Analysis
+### * [App Analysis](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/App%20Analysis.ipynb)
 
-### * Exploring Hacker News Posts
+### * [Exploring Hacker News Posts](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)
 
-### * Analyzing CIA Factbook Data Using SQL 
+### * [Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)
