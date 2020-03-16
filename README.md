@@ -8,3 +8,17 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 * __[Exploring Hacker News Posts](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)__
 
 * __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)__
+
+* __Answering Business Questions Using SQL__
+
+* __Building a Database for Crime Reports__
+
+* __Analyzing Startup Fundraising Deals from Crunchbase__
+
+* __Analyzing Wikipedia Pages__
+
+* __Analyzing Stock Prices__
+
+* __Implementing a Key-Value Database__
+
+* __Hacker News Pipeline__
