@@ -9,7 +9,7 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 * __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)__
 
-* __Answering Business Questions Using SQL__
+* __[Answering Business Questions Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Answering%20Business%20Questions%20Using%20SQL.ipynb)__
 
 * __Building a Database for Crime Reports__
 
