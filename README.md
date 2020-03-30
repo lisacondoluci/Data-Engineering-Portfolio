@@ -11,7 +11,7 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 * __[Answering Business Questions Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Answering%20Business%20Questions%20Using%20SQL.ipynb)__
 
-* __Building a Database for Crime Reports__
+* __[Building a Database for Crime Reports](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Building%20a%20Database%20for%20Crime%20Reports.ipynb)__
 
 * __Analyzing Startup Fundraising Deals from Crunchbase__
 
