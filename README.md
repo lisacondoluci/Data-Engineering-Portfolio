@@ -13,6 +13,8 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 * __[Building a Database for Crime Reports](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Building%20a%20Database%20for%20Crime%20Reports.ipynb)__
 
+* __Exploring Ebay Car Sales Data__
+
 * __Analyzing Startup Fundraising Deals from Crunchbase__
 
 * __Analyzing Wikipedia Pages__
