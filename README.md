@@ -13,7 +13,7 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 * __[Building a Database for Crime Reports](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Building%20a%20Database%20for%20Crime%20Reports.ipynb)__
 
-* __Optimizing Dataframes and Processing in Chunks__
+* __[Optimizing Dataframes and Processing in Chunks](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Optimizing%20Dataframes%20and%20Processing%20in%20Chunks.ipynb)__
 
 * __Analyzing Startup Fundraising Deals from Crunchbase__
 
