@@ -15,7 +15,7 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 * __[Optimizing Dataframes and Processing in Chunks](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Optimizing%20Dataframes%20and%20Processing%20in%20Chunks.ipynb)__
 
-* __Analyzing Startup Fundraising Deals from Crunchbase__
+* __[Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20Startup%20Fundraising%20Deals.ipynb)__
 
 * __Analyzing Wikipedia Pages__
 
