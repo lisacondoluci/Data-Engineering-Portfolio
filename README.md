@@ -7,7 +7,7 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 * __[Exploring Hacker News Posts](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)__
 
-* __Building Fast Queries on a CSV__
+* __[Building Fast Queries on a CSV](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Building%20Fast%20Queries%20on%20a%20CSV.ipynb)__
 
 * __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)__
 
