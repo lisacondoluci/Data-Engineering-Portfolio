@@ -27,16 +27,16 @@ __[App Analysis](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blo
 * In this project, I use Python to analyze a dataset of Android and iOS mobile apps that are available on the Google Play Store and App Store. I clean the data by removing duplicate apps and non-English apps, and I create frequency tables to better understand the data and recommend the type of app that should be built in the future. 
 
 
+__Analyzing Wikipedia Pages__
+* In this project, I parse and analyze scraped HTML data from Wikipedia pages. I use threads to improve run time for I/O bound programs, and processes to improve run time for CPU bound programs. 
+
+
 __[Answering Business Questions Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Answering%20Business%20Questions%20Using%20SQL.ipynb)__
 * In this project, I use Python's SQLite module to answer business questions about a record store. I define functions to run queries and commands, and write complex SQL, including using CTEs, subqueries, and multiple joins. 
 
 
 __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)__
 * In this project, I query a SQLite database in order to analyze factbook data about countries in the world. 
-
-
-__Analyzing Wikipedia Pages__
-* In this project, 
 
 
 __Analyzing Stock Prices__
