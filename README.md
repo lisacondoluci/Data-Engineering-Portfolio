@@ -1,5 +1,5 @@
 # Data Engineering Portfolio
-Repository containing Lisa Condoluci's portfolio of data engineering projects. Many projects were created using the Data Engineer path in [Dataquest](https://app.dataquest.io/dashboard). Projects are presented in Jupyter Notebooks using Python and SQL. 
+Repository containing Lisa Condoluci's portfolio of data engineering projects. Projects are presented in Jupyter Notebooks using Python and SQL. Many project prompts were from the Data Engineer path in [Dataquest](https://app.dataquest.io/). 
 
 ## Contents
 
