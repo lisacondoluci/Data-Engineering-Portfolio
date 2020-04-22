@@ -3,16 +3,16 @@ Repository containing Lisa Condoluci's portfolio of data engineering projects. M
 
 ## Contents
 
-__[Optimizing Dataframes and Processing in Chunks](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Optimizing%20Dataframes%20and%20Processing%20in%20Chunks.ipynb)__
-* In this project, I use pandas and batch processing to analyze financial lending data. I analyze and convert both string columns and float columns to their optimal types in order to decrease the memory usage needed to read the entire dataset. 
-
-
 __[Building a Database for Crime Reports](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Building%20a%20Database%20for%20Crime%20Reports.ipynb)__
 * In this project, I build a Postgres database for storing data related to crimes in Boston. Within this database, I create a schema and tables, as well as users and groups to grant permissions. I also optimize each column of this database to improve run times and storage needed. 
 
 
+__[Optimizing Dataframes and Processing in Chunks](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Optimizing%20Dataframes%20and%20Processing%20in%20Chunks.ipynb)__
+* In this project, I use Pandas and batch processing to analyze financial lending data. I analyze and convert both string columns and float columns to their optimal types in order to decrease the memory usage needed to read the entire dataset. 
+
+
 __[Analyzing Startup Fundraising Deals from Crunchbase](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20Startup%20Fundraising%20Deals.ipynb)__
-* In this project, I use pandas, batch processing, and SQL in order to analyze a dataset on the fundraising rounds of many startups. I determine memory footprints, optimize all column types, and load the data into a SQLite database. 
+* In this project, I use Pandas, batch processing, and SQL in order to analyze a dataset on the fundraising rounds of many startups. I determine memory footprints, optimize all column types, and load the data into a SQLite database. 
 
 
 __[Exploring Hacker News Posts](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Exploring%20Hacker%20News%20Posts.ipynb)__
