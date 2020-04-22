@@ -37,16 +37,3 @@ __[Answering Business Questions Using SQL](https://github.com/lisacondoluci/Data
 
 __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)__
 * In this project, I query a SQLite database in order to analyze factbook data about countries in the world. 
-
-
-__Analyzing Stock Prices__
-*
-
-
-__Implementing a Key-Value Database__
-*
-
-
-__Hacker News Pipeline__
-* 
-
