@@ -40,13 +40,13 @@ __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-
 
 
 __Analyzing Stock Prices__
-* In this project, 
+*
 
 
 __Implementing a Key-Value Database__
-* In this project, 
+*
 
 
 __Hacker News Pipeline__
-* In this project, 
+* 
 
