@@ -27,7 +27,7 @@ __[App Analysis](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blo
 * In this project, I use Python to analyze a dataset of Android and iOS mobile apps that are available on the Google Play Store and App Store. I clean the data by removing duplicate apps and non-English apps, and I create frequency tables to better understand the data and recommend the type of app that should be built in the future. 
 
 
-__Analyzing Wikipedia Pages__
+__[Analyzing Wikipedia Pages](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20Wikipedia%20Pages.ipynb)__
 * In this project, I parse and analyze scraped HTML data from Wikipedia pages. I use threads to improve run time for I/O bound programs, and processes to improve run time for CPU bound programs. 
 
 
