@@ -31,6 +31,10 @@ __[Analyzing Wikipedia Pages](https://github.com/lisacondoluci/Data-Engineering-
 * In this project, I parse and analyze scraped HTML data from Wikipedia pages. I use threads to improve run time for I/O bound programs, and processes to improve run time for CPU bound programs. 
 
 
+__[Analyzing Stock Prices](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20Stock%20Prices.ipynb)__
+* In this project, I work with stock market data from 2007 to 2014. I use various data structures, multiple processes, and binary search algorithms to analyze the data.
+
+
 __[Answering Business Questions Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Answering%20Business%20Questions%20Using%20SQL.ipynb)__
 * In this project, I use Python's SQLite module to answer business questions about a record store. I define functions to run queries and commands, and write advances SQL queries, including using CTEs, subqueries, and multiple joins. 
 
