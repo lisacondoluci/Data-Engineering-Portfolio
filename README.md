@@ -36,7 +36,7 @@ __[Analyzing Stock Prices](https://github.com/lisacondoluci/Data-Engineering-Por
 
 
 __[Answering Business Questions Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Answering%20Business%20Questions%20Using%20SQL.ipynb)__
-* In this project, I use Python's SQLite module to answer business questions about a record store. I define functions to run queries and commands, and write advances SQL queries, including using CTEs, subqueries, and multiple joins. 
+* In this project, I use Python's SQLite module to answer business questions about a record store. I define functions to run queries and commands, and write advanced SQL queries, including using CTEs, subqueries, and multiple joins. 
 
 
 __[Analyzing CIA Factbook Data Using SQL](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Analyzing%20CIA%20Factbook%20Data%20Using%20SQL.ipynb)__
