@@ -7,6 +7,10 @@ __[Building a Database for Crime Reports](https://github.com/lisacondoluci/Data-
 * In this project, I build a Postgres database for storing data related to crimes in Boston. Within this database, I create a schema and tables, as well as users and groups to grant permissions. I also optimize each column of this database to improve run times and storage needed. 
 
 
+__[Hacker News Pipeline](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Hacker%20News%20Pipeline.ipynb)__
+* In this project, I begin with raw JSON data then filter, clean, aggregate, and summarize it in a sequence of tasks using a data pipeline.
+
+
 __[Optimizing Dataframes and Processing in Chunks](https://github.com/lisacondoluci/Data-Engineering-Portfolio/blob/master/Optimizing%20Dataframes%20and%20Processing%20in%20Chunks.ipynb)__
 * In this project, I use Pandas and batch processing to analyze financial lending data. I analyze and convert both string columns and float columns to their optimal types in order to decrease the memory usage needed to read the entire dataset. 
 
